@@ -1,0 +1,61 @@
+*{
+  text-align: center;
+}
+body {
+  font-family: 'Arial', sans-serif;
+  line-height: 1.6;
+  background-color: #f4f4f4;
+}
+
+.header {
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.profile-img {
+  width: 150px;
+  margin: auto;
+}
+
+h1 {
+  margin-top: 10px;
+}
+
+.introduction{
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline wavy;
+}
+
+.projects{
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.projects-img{
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.right-image{
+  padding-right: 50px;
+}
+
+.left-image{
+  padding-left: 30px;
+}
+footer {
+  margin-top: 20px;
+}
